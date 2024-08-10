@@ -103,3 +103,10 @@ article ol li{
     font-size: 18px;
     list-style-position: inside;
 }
+
+footer img{
+    width: 125px;
+    height: 125px;
+    margin-left: 25px;
+    float: left;
+}

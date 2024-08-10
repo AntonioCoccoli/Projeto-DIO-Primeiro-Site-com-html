@@ -116,3 +116,10 @@ table tbody tr:nth-child(even) td{
 table th{
     text-transform: capitalize;
 }
+
+footer img{
+    width: 125px;
+    height: 125px;
+    margin-left: 25px;
+    float: left;
+}
